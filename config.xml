@@ -17,6 +17,23 @@
 
 
 
+
+ <!-- Android icons -->
+    <icon src="res/icons/android/36x36.png"  gap:platform="android" gap:density="ldpi" />
+    <icon src="res/icons/android/48x48.png"  gap:platform="android" gap:density="mdpi" />
+    <icon src="res/icons/android/72x72.png"  gap:platform="android" gap:density="hdpi" />
+    <icon src="res/icons/android/96x96.png"  gap:platform="android" gap:density="xhdpi" /> 
+
+    <!-- Android splashes >
+    <gap:splash src="res/splash/android/200x320.png"  gap:platform="android" gap:density="ldpi" />
+    <gap:splash src="res/splash/android/320x480.png"  gap:platform="android" gap:density="mdpi" />
+    <gap:splash src="res/splash/android/480x800.png"  gap:platform="android" gap:density="hdpi" />
+    <gap:splash src="res/splash/android/720X1280.png" gap:platform="android" gap:density="xhdpi" />
+
+-->
+
+
+
  <access origin="*"/>
     <allow-intent href="http://*/*"/>
     <allow-intent href="https://*/*"/>
