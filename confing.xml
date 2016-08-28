@@ -1,12 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.phonegap.helloworld" version="1.0.0">
-
 <name>Mimedic</name>
-
 <description>Aplicacion directorio medico.</description>
-
 <author email="angelyxboxlive@gmail.com" href="http://dimedic.com"> dimedic</author>
+<preference name="permissions" value="none"/>
 
-<content src="index.html"/>
 
 <access origin="*"/>
 
